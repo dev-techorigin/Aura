@@ -1,0 +1,9 @@
+{
+  "versionCode": 12,
+  "versionName": "1.7.6",
+  "minVersionCode": 12,
+  "forceUpdate": true,
+  "title": "Aura v1.7.6 Required Update",
+  "changelog": "- Critical update: Aura v1.7.6 is required to continue\n- High-definition glowing splash icon & luminous aura branding\n- Vertically scrollable navigation drawer with full item accessibility\n- Critical security & streaming stability updates",
+  "downloadUrl": "https://github.com/dev-techorigin/Aura/releases/download/v1.7.6/Aura-v1.7.6.apk"
+}
